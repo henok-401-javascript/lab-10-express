@@ -1,8 +1,8 @@
 # lab-10-express
 
-## Project Name : API Server
+## Project Name :Authentication
 
-### Author: Henok Gebremedhn . 
+### Author: Henok Gebremedhn .
 
 ### Links and Resources
 
@@ -10,7 +10,7 @@
 
 ### DOCUMENTATION
 
-[Swagger Hub]()
+[Swagger Hub](http://localhost:3000/api-docs#/)
 
 [heroku]()
 
